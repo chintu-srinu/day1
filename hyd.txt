@@ -1,2 +1,6 @@
 hello
+<<<<<<< HEAD
 hello tytff
+=======
+hello you
+>>>>>>> aff2eb9354e1c05f6046e54facf226d3e79ca22e
